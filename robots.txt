@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://adarsh-crypto.github.io/al-folio/sitemap.xml
+Sitemap: https://adarsh-crypto.github.io/sitemap.xml
